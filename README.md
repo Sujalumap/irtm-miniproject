@@ -1,1 +1,1 @@
-# irtm-miniproject
+# sentiment-based-product-analyzer
